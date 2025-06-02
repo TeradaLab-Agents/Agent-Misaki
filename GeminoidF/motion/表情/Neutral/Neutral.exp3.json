@@ -27,6 +27,31 @@
 			"Blend": "Add"
 		},
 		{
+			"Id": "ParamEyeLOpen_Disgust",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen_Disgust",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowL_Disgust",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowR_Disgust",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouth_Disgust",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
 			"Id": "ParamEyeLOpen_Sad",
 			"Value": 0,
 			"Blend": "Add"
@@ -98,6 +123,81 @@
 		},
 		{
 			"Id": "ParamMouth_Happy2",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen_Fear",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen_Fear",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowL_Fear",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowR_Fear",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouth_Fear",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen_Regret",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen_Regret",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowL_Regret",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowR_Regret",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouth_Regret",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen_Surprised",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen_Surprised",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowL_Surprised",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowR_Surprised",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouth_Surprised",
 			"Value": 0,
 			"Blend": "Add"
 		}

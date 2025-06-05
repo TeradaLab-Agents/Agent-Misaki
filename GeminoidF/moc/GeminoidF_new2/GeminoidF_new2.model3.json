@@ -3,7 +3,7 @@
 	"FileReferences": {
 		"Moc": "GeminoidF_new2.moc3",
 		"Textures": [
-			"GeminoidF_new2.8192/texture_00.png"
+			"GeminoidF_new2.8192/texture_01.png"
 		],
 		"Physics": "GeminoidF_new2.physics3.json",
 		"DisplayInfo": "GeminoidF_new2.cdi3.json",

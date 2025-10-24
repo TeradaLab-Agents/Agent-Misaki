@@ -332,7 +332,14 @@
 				"Name": "Neutral",
 				"File": "../../motion/表情/Neutral/Neutral.exp3.json"
 			}
-		]
+		],
+		"Motions": {
+			"Greeting": [
+				{
+					"File": "../../motion/お辞儀のけ反り/お辞儀.motion3.json"
+				}
+			]
+		}
 	},
 	"Groups": [
 		{
